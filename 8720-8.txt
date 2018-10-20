@@ -39,7 +39,7 @@ and the Online Distributed Proofreading Team
 TALES AND NOVELS
 
 
-VOLUME II (of 10)
+VOLUME II (of X)
 
 
 POPULAR TALES
@@ -218,7 +218,7 @@ rejoice that the times are bettered for youngsters since then; for I
 know I had a hard life of it.
 
 "My good master, here, never knew any thing of the matter but I was
-cruelly used by those under him. First, the oldwoman--Betty Morgan, I
+cruelly used by those under him. First, the old woman--Betty Morgan, I
 think, was her name--who set us our tasks of picking and washing the
 _squad_, was as cross as the rheumatism could make her. She never picked
 an ounce herself, but made us do her heap for her among us; and I being
@@ -688,7 +688,7 @@ my friend Mr. Y---- saw my danger, and cured me of my conceit, without
 damping my ardour to acquire knowledge. He took me to the books in
 his study, and showed me many volumes of fine poems; pointing out some
 passages to me that greatly diminished my admiration of my own lines on
-the thistle The vast distance which I perceived between myself and these
+the thistle. The vast distance which I perceived between myself and these
 writers threw me into despair. Mr. Y---- seeing me thoroughly abashed,
 observed that he was glad to find I saw the difference between bad and
 good poetry; and pointed out to me, it was not likely, if I turned my
@@ -1026,7 +1026,7 @@ lost any thing but one red nightcap, which, to the best of my belief, he
 sent in his wig one Sunday morning to the barber's, but which never came
 back again, and an old ragged blue pocket-handkerchief, which he said he
 put under his pillow, or into his boot, when he went to bed at night. He
-had an odd way of sticking his pocket-handkerchief into his boot, 'that
+had an odd way of sticking his pocket-handkerchief into his boot, that
 he might be sure to find it in the morning.' I suspect the handkerchief
 was carried down in the boot when it was taken to be cleaned. He was,
 however, perfectly certain that these two losses were not to be imputed
@@ -1264,7 +1264,7 @@ sentenced to be hanged.
 
 "I shuddered whilst I read all this.--To such an end, after the utmost
 his cunning could do, was this villain brought at last! How thankful
-I was that I did not continue his associate I in my boyish days! My
+I was that I did not continue his associate in my boyish days! My
 gratitude to my good master increased upon the reflection that it was
 his humanity which had raised me from vice and misery, to virtue and
 happiness. We sailed from the Downs the 20th of March, one thousand
@@ -1321,7 +1321,7 @@ Pamphlet before mentioned.)_
 
 'REVEREND SIR,
 
-'I take the liberty of informing you that we arrived here the 28th uit.
+'I take the liberty of informing you that we arrived here the 28th ult.
 without any particular occurrence in the way. The day after our arrival
 we made our first visit to the sultan; and he entertained us at his
 court for upwards of three hours.
@@ -3389,7 +3389,7 @@ before any one answered: at last a boy came to hold their horses, who
 told them that Mr. Banks was dead, and that nobody could be let into the
 house. The boy knew nothing of the matter, except that his master died,
 he believed, of a sort of a fit; and that his young mistress was in
-great grief: "which I'm mortal sorry for," added he: "for she he's kind
+great grief: "which I'm mortal sorry for," added he: "for she be's kind
 hearted and civil spoken, and moreover did give me the very shoes I have
 on my feet."
 
@@ -3981,7 +3981,7 @@ Mr. Hill?"
 
 "With all my heart, my dear."
 
-"Yes, and with all your heart, I suppose, Mr, Hill, you would see
+"Yes, and with all your heart, I suppose, Mr. Hill, you would see
 our cathedral blown up, some fair day or other, and your own daughter
 married to the person that did it; and you a verger, Mr. Hill."
 
@@ -4944,7 +4944,7 @@ Marshal expected. The poor widow and her family, in the most simple
 and affecting manner, described the distress from which they had been
 relieved by the good gentleman and lady, the lady was Phoebe Hill;
 and the praises that were bestowed upon Phoebe were delightful to her
-father's ear, whose angry passions had now all sub sided.
+father's ear, whose angry passions had now all subsided.
 
 The benevolent Mr. Marshal seized the moment when he saw Mr. Hill's
 heart was touched, and exclaimed, "I must be acquainted with this Mr.
@@ -7940,7 +7940,7 @@ family, and considering to what they should turn their hands when the
 potatoes were all set, they were interrupted by a little _gossoon_,
 who came running up as hard as he could, crying, "Murder! murder! Simon
 O'Dougherty wants you. For the love of God, cross the bog in all haste,
-to help pull out his: horse, that has tumbled into the old tan-pit,
+to help pull out his horse, that has tumbled into the old tan-pit,
 there beyond, in the night!"
 
 The two brothers immediately followed the boy, carrying with them a rope
@@ -8288,7 +8288,7 @@ silence his mistress, he made her his wife. She assured him, that, till
 she was his lawful lady, she never should have peace or quietness; nor
 could she, in conscience, suffer him to have a moment's rest.
 
-Simon married her, to use his own phrase, out of hand: hut the marriage
+Simon married her, to use his own phrase, out of hand: but the marriage
 was only the beginning of new troubles. The bride had hordes and
 clans of relations, who came pouring in from all quarters to pay their
 respects to Mrs. O'Dougherty. Her good easy man could not shut his doors
@@ -8371,7 +8371,7 @@ but since a thing past can't be recalled, and those that are upon the
 ground, as our proverb says, can go no lower, that's a great comfort; so
 we may be content."
 
-"Content, in troth! Is it content to live upon potatoes and salt? I,
+"Content, in truth! Is it content to live upon potatoes and salt? I,
 that am your lawful wife! And you, that are an O'Dougherty too, to let
 your lady be demeaned and looked down upon, as she will be now, even by
 them that are sprung up from nothing since yesterday. There's Mrs. Gray,
@@ -9094,12 +9094,12 @@ it; we will not let ourselves be oppressed. If Mr. Hopkins were ten
 times as great, and twenty times as tyrannical as he is, we shall have
 justice; the law will reach him: but we must take care and do nothing
 in anger. Therefore, I charge you, let me speak to him, and do you
-keep your tempers whatever passes. May be, all this is only 8 mistake:
+keep your tempers whatever passes. May be, all this is only a mistake:
 perhaps Mr. Hopkins is only making drains for his own meadow; or, may
 be, is going to flood it, and does not know, till we tell him, that he
 is emptying our water-course."
 
-"He can't but know it! He can't but know it! He's'cute enough, and too
+"He can't but know it! He can't but know it! He's' cute enough, and too
 'cute," muttered Paddy, as he led the way to the mill. Stafford and
 the two brothers followed their father respectfully; admiring his
 moderation, and resolving to imitate it if they possibly could.
@@ -12167,7 +12167,7 @@ often, to ignorant mortals, objects of supreme admiration and envy.
 Charles Darford looked for happiness, and found it in domestic life.
 
 Belief, founded upon our own experience, is more firm than that which
-we grant to the hearsay evidence of moralists; but t happy those who,
+we grant to the hearsay evidence of moralists; but happy those who,
 according to the ancient proverb, can profit by the experience of their
 predecessors!
 
@@ -12411,7 +12411,7 @@ I say, how can I help it? But this you'll remember, if you please, sir."
 
 "I have never understood you till now, I am afraid."
 
-"Perhaps not: it's well we understand one another at last Better late
+"Perhaps not: it's well we understand one another at last. Better late
 than never."
 
 The scornful lady walked off to a looking-glass, to wipe away the insult
@@ -12874,7 +12874,7 @@ master, Frank had a prospect of being extremely happy; and he determined
 that nothing should be wanting, on his part, to ensure Mr. Barlow's
 esteem and regard.
 
-James Frankland, in the mean time, went on happily with Mr, Cleghorn,
+James Frankland, in the mean time, went on happily with Mr. Cleghorn,
 the haberdasher; whose customers all agreed that his shop had never
 been so well attended as since this young man had been his foreman. His
 accounts were kept in the most exact manner; and his bills were made out
@@ -13905,7 +13905,7 @@ fortune for myself: for I can do, having done all my life, without
 fortune well enough; but I could not do without my own good opinion, and
 that of my father, and brothers, and sister; all which I should lose, if
 I was to be guilty of a mean thing. So, ma'am," said Patty, "I have made
-bold to speak the whole troth of my mind to you; and I hope you will not
+bold to speak the whole truth of my mind to you; and I hope you will not
 do me an injury, by way of doing me a favour. I am sure I thank you with
 all my heart for your goodness to me."
 
@@ -14421,7 +14421,7 @@ sorry indeed if she was to go away, especially in disgrace."
 never leave my house, as long as she desires to stay in it. I do not
 give, or withdraw, my protection, without good reasons."
 
-Miss Jessy Bettesworth hit her lips. Her face, which nature intended
+Miss Jessy Bettesworth bit her lips. Her face, which nature intended
 to be beautiful, became almost ugly; envy and malice distorted her
 features; and, when she departed with Mrs. Cheviott, her humiliated
 appearance was a strong contrast to the air of triumph with which she
